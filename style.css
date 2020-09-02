@@ -108,4 +108,7 @@ h3,h5{
     .color-pallete{
         flex-direction: column;
     }
+    .color-info{
+        margin-bottom: 15px;
+    }
 }
